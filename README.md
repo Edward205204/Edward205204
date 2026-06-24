@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Edward&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20in%20progress&descAlignY=58&descSize=18&descColor=aaaacc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Edward&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Builder%20in%20progress%20%E2%80%94%20Backend%20%7C%20Systems%20%7C%20Coffee&descAlignY=60&descSize=16&descColor=9090cc" width="100%" />
 
-<br />
+<br/>
 
 *"Following the light of the sun, we left the Old World."*
-<br/>
-— Christopher Columbus
+<br/>— Christopher Columbus
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentminhkhoa1@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=302b63&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -19,9 +19,11 @@
 
 ### About
 
-Fresh grad, backend focus. I spend most of my time figuring out how systems fit together — authentication flows, data pipelines, service boundaries. Currently working my way into Java/Spring Boot territory after spending a while in the Node.js world.
+Fresh grad, backend focus. I spend most of my time figuring out how systems fit together — authentication flows, data pipelines, service boundaries.
 
-Not chasing hype. Just trying to write things that work, and understand why they work.
+Currently working my way into **Java/Spring Boot** territory after spending a while in the Node.js world.
+
+Not chasing hype. Just trying to write things that work, and understand *why* they work.
 
 ---
 
@@ -44,6 +46,36 @@ Not chasing hype. Just trying to write things that work, and understand why they
 **Exploring**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<!-- Streak stats — shows current streak, longest streak, total contributions -->
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=302b63&ring=6c63ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=aaaacc&dates=888899&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
+
+<!-- Overall stats — stars, commits, PRs, issues, contrib -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=6c63ff&icon_color=6c63ff&text_color=ccccee&ring_color=302b63&count_private=true&include_all_commits=true" width="49%" />
+
+<br/>
+
+<!-- Top languages by repo — pulls from your actual repos -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=6c63ff&text_color=ccccee&langs_count=8" width="50%" />
+
+</div>
+
+---
+
+### Contribution Graph
+
+<div align="center">
+
+<!-- Activity graph — shows commit history heatmap -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f0c29&color=9090cc&line=6c63ff&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
