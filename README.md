@@ -57,7 +57,7 @@ Not chasing hype. Just trying to write things that work, and understand *why* th
 <img src="https://streak-stats.demolab.com?user=Edward205204&theme=tokyonight&hide_border=true&stroke=302b63&ring=6c63ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=aaaacc&dates=888899&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 
 <!-- Overall stats — stars, commits, PRs, issues, contrib -->
-<img src="https://github-readme-stats.vercel.app/api?username=Edward205204&show_icons=true&theme=tokyonight&hide_border=true&title_color=6c63ff&icon_color=6c63ff&text_color=ccccee&ring_color=302b63&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats-ruby-six-83.vercel.app/api?username=Edward205204" />
 
 <br/>
 
