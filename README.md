@@ -61,7 +61,7 @@ Not chasing hype. Just trying to write things that work, and understand *why* th
 <br/>
 
 <!-- Top languages by repo — pulls from your actual repos -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edward205204&layout=compact&theme=tokyonight&hide_border=true&title_color=6c63ff&text_color=ccccee&langs_count=8" width="50%" />
+<img src="https://github-readme-stats-ruby-six-83.vercel.app/api/top-langs/?username=Edward205204&layout=compact&theme=tokyonight&hide_border=true&title_color=6c63ff&text_color=ccccee&langs_count=8" width="50%" />
 
 </div>
 
