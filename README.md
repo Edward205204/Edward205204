@@ -57,7 +57,7 @@ Not chasing hype. Just trying to write things that work, and understand *why* th
 <img src="https://streak-stats.demolab.com?user=Edward205204&theme=tokyonight&hide_border=true&stroke=302b63&ring=6c63ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=aaaacc&dates=888899&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 
 <!-- Overall stats — stars, commits, PRs, issues, contrib -->
-<img src="https://github-readme-stats-ruby-six-83.vercel.app/api?username=Edward205204&theme=tokyonight&hide_border=true&stroke=302b63&ring=6c63ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=aaaacc&dates=888899&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-stats-ruby-six-83.vercel.app/api/top-langs/?username=Edward205204&layout=compact&theme=tokyonight&hide_border=true&title_color=6c63ff&text_color=ccccee&langs_count=8&cache_seconds=0" />
 <br/>
 
 <!-- Top languages by repo — pulls from your actual repos -->
